@@ -70,9 +70,9 @@ These principles guide both prototype code and professional work.
 
 ## Background & Experience
 
-- Founder & Applied AI Engineer at **Parallax Lab** (AI strategy and technical design)  
+- Founder & Applied AI Engineer at **Parallax Lab**, applying state-of-the-art machine learning methods to extract signal from complex data and build end-to-end AI systems that improve operational and financial outcomes.
 - Focus: signal systems, agent workflows, multimodal perception, decision-architecture  
-- Professional experience in cyber systems, infrastructure, and machine learning
+- Professional experience in cyber security, infrastructure, and machine learning
 
 See my detailed professional profile on LinkedIn:  
 🔗 https://www.linkedin.com/in/dustinhaggett/
@@ -81,6 +81,6 @@ See my detailed professional profile on LinkedIn:
 
 ## Contact
 
-dustin@parallaxlab.ai
-https://dustinhaggett.com  
-https://parallaxlab.ai
+📫 **Email:** dustin@parallaxlab.ai  
+🌐 **Web:** https://dustinhaggett.com  
+🏢 **Parallax Lab:** https://parallaxlab.ai  
