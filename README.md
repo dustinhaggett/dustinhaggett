@@ -26,15 +26,26 @@ Building systems that perceive, interpret, and act.
 
 ### AI & Signal Systems
 
-- **[RegimeAlpha](https://dustinhaggett.com/projects/regimealpha)** — A project exploring signal-based AI systems.
-- **[SpinOut Radar](https://dustinhaggett.com/projects/spinout-radar)** — A detection and pattern-recognition system with signal application context.
-- **[DeepFile](https://dustinhaggett.com/projects/deepfile)** — A project focused on deep learning applied to structured and unstructured inputs.
-- **[Landflip](https://dustinhaggett.com/projects/landflip)** — A signal-oriented exploration project focused on interpreting and acting on structured geospatial and event data.
-- **[ShopperOS](https://dustinhaggett.com/projects/shopperos)** — An applied system for decision-centric signal integration.
-- **[LabelFlow](https://dustinhaggett.com/projects/labelflow)** — Tooling for labeled data workflows and structured inference.
-- **[Chart Vision](https://dustinhaggett.com/projects/chart-vision)** — Experiments in perceptual pattern extraction from structured visual/text data.
-- **[BioLink](https://dustinhaggett.com/projects/biolink)** — AI-driven modeling for drug–disease relationships.
-- **[Federated IDs](https://dustinhaggett.com/projects/federated-ids)** — A system-centric approach to decentralized identity and cross-domain authentication, exploring secure, scalable identity federation and signal-aware user resolution.
+- **[RegimeAlpha](https://dustinhaggett.com/projects/regimealpha)** — LSTM + attention time-series system for identifying BTC market regimes, with drift detection and a walk-forward evaluation engine.
+
+- **[SpinOut Radar](https://dustinhaggett.com/projects/spinout-radar)** — RAG-powered deep-tech scouting system using embeddings, Supabase, and AI summaries to surface emerging spinouts and trends.
+
+- **[DeepFile](https://dustinhaggett.com/projects/deepfile)** — Intelligence document extraction and retrieval system combining OCR, embeddings, and retrieval-augmented QA.
+
+- **[Landflip](https://dustinhaggett.com/projects/landflip)** — Geospatial pipeline for Brazilian coastal land intelligence built on OpenStreetMap data and Python.
+
+- **[ShopperOS](https://dustinhaggett.com/projects/shopperos)** — Cross-web personal shopping AI using taste graphs and fit-profile embeddings to improve purchase decisions.
+
+- **[LabelFlow](https://dustinhaggett.com/projects/labelflow)** — GenAI-native labeling platform with RAG evaluation, hallucination testing, and instant payouts.
+
+
+### Research
+
+- **[Chart Vision](https://dustinhaggett.com/projects/chart-vision)** — Deep learning study on candlestick chart prediction comparing CNN architectures; a simple 4-layer CNN achieved 0.892 AUC-ROC, outperforming ResNet, EfficientNet, and Vision Transformers.
+
+- **[BioLink](https://dustinhaggett.com/projects/biolink)** — Drug–disease modeling research using BioBERT / PubMedBERT embeddings and knowledge-graph propagation.
+
+- **[Federated IDs](https://dustinhaggett.com/projects/federated-ids)** — Research on federated learning for intrusion detection, evaluating privacy-preserving distributed training across network security datasets.
 
 ---
 
