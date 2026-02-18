@@ -49,6 +49,10 @@ These principles guide both prototype code and professional work.
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dustinhaggett&show_icons=true&theme=github_dark&include_all_commits=true)
+
+---
+
 ## Background & Experience
 
 - Founder & Applied AI Engineer at **Parallax Lab**, applying state-of-the-art machine learning methods to extract signal from complex data and build end-to-end AI systems that improve operational and financial outcomes.
