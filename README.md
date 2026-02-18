@@ -49,7 +49,7 @@ These principles guide both prototype code and professional work.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dustinhaggett&show_icons=true&theme=github_dark&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dustinhaggett&show_icons=true&theme=github_dark_dimmed)
 
 ---
 
