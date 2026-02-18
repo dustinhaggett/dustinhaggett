@@ -35,6 +35,12 @@ Utah • Founder, Parallax Lab
 
 ---
 
+## Recent Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dustinhaggett&theme=github-dark)
+
+---
+
 
 ## How I Think About Applied AI
 
@@ -46,10 +52,6 @@ My engineering philosophy centers on:
 - **Robustness and interpretability** — systems must survive failure modes and provide insight.  
 
 These principles guide both prototype code and professional work.
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dustinhaggett&show_icons=true&theme=github_dark_dimmed)
 
 ---
 
