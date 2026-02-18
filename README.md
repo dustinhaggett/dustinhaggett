@@ -1,15 +1,16 @@
 # Dustin Haggett  
+[![Email](https://img.shields.io/badge/-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dustin@parallaxlab.ai)
+[![Portfolio](https://img.shields.io/badge/-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dustinhaggett.com)
+[![Parallax Lab](https://img.shields.io/badge/-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://parallaxlab.ai)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/dustinhaggett/)
+
 ### **Applied AI & Systems Engineer**
 
-Applied AI engineer working on agentic systems, multimodal models, and signal intelligence.
+Applied AI engineer focused on agentic systems, multimodal models, and signal intelligence.
 
 MEng Applied Artificial Intelligence (2026), Data Engineering.
 
 Building systems that perceive, interpret, and act.
-
-Utah • Founder, Parallax Lab  
-🌐 https://dustinhaggett.com • https://parallaxlab.ai  
-📫 dustin@parallaxlab.ai
 
 ---
 
@@ -60,6 +61,7 @@ See my detailed professional profile on LinkedIn:
 
 ## Contact
 
-📫 **Email:** dustin@parallaxlab.ai  
-🌐 **Portfolio:** https://dustinhaggett.com  
-🏢 **Parallax Lab:** https://parallaxlab.ai  
+- 📫 **Email:** dustin@parallaxlab.ai  
+- 🌐 **Portfolio:** https://dustinhaggett.com  
+- 🏢 **Parallax Lab:** https://parallaxlab.ai  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/dustinhaggett/
