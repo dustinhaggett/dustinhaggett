@@ -35,8 +35,6 @@ Utah • Founder, Parallax Lab
 
 ---
 
-## Recent Activity
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dustinhaggett&theme=github-dark)
 
 ---
