@@ -1,145 +1,78 @@
-<h1>Dustin Haggett</h1>
+# Dustin Haggett
 
-<div>
-  <a href="mailto:dustin@parallaxlab.ai" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://dustinhaggett.com" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://parallaxlab.ai" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/dustinhaggett/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-</div>
+[![Email](https://img.shields.io/badge/-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dustin@parallaxlab.ai)
+[![Portfolio](https://img.shields.io/badge/-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dustinhaggett.com)
+[![Parallax Lab](https://img.shields.io/badge/-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://parallaxlab.ai)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/dustinhaggett/)
 
-<h3><strong>Applied AI & Systems Engineer</strong></h3>
+### **Applied AI & Systems Engineer**
 
-<p>
 Applied AI engineer focused on agentic systems, multimodal models, and signal intelligence.
-</p>
 
-<p>
 MEng Applied Artificial Intelligence (2026), Data Engineering.
-</p>
 
-<p>
 Building systems that perceive, interpret, and act.
-</p>
 
-<hr/>
+---
 
-<h2>Currently Building</h2>
+## Currently Building
 
-<ul>
-  <li>
-    <strong>
-      <a href="https://github.com/dustinhaggett/sentineldns" target="_blank">
-        SentinelDNS
-      </a>
-    </strong>
-    — An applied ML system for domain risk scoring and anomaly detection, focused on extracting signal from noisy network and behavioral data under real-world constraints.
-  </li>
-</ul>
+- **[SentinelDNS](https://github.com/dustinhaggett/sentineldns)** — An applied ML system for domain risk scoring and anomaly detection, focused on extracting signal from noisy network and behavioral data under real-world constraints.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dustinhaggett&theme=github-dark" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dustinhaggett&theme=github-dark)
 
-<hr/>
+---
 
-<h2>Selected Work</h2>
+## Selected Work
 
-<h3>AI & Signal Systems</h3>
+### AI & Signal Systems
 
-<ul>
-  <li>
-    <strong><a href="https://dustinhaggett.com/projects/regimealpha" target="_blank">RegimeAlpha</a></strong>
-    — LSTM + attention time-series system for identifying BTC market regimes, with drift detection and a walk-forward evaluation engine.
-  </li>
-  <li>
-    <strong><a href="https://dustinhaggett.com/projects/spinout-radar" target="_blank">SpinOut Radar</a></strong>
-    — RAG-powered deep-tech scouting system using embeddings, Supabase, and AI summaries to surface emerging spinouts and trends.
-  </li>
-  <li>
-    <strong><a href="https://dustinhaggett.com/projects/deepfile" target="_blank">DeepFile</a></strong>
-    — Intelligence document extraction and retrieval system combining OCR, embeddings, and retrieval-augmented QA.
-  </li>
-  <li>
-    <strong><a href="https://dustinhaggett.com/projects/landflip" target="_blank">Landflip</a></strong>
-    — Geospatial pipeline for Brazilian coastal land intelligence built on OpenStreetMap data and Python.
-  </li>
-  <li>
-    <strong><a href="https://dustinhaggett.com/projects/shopperos" target="_blank">ShopperOS</a></strong>
-    — Cross-web personal shopping AI using taste graphs and fit-profile embeddings to improve purchase decisions.
-  </li>
-  <li>
-    <strong><a href="https://dustinhaggett.com/projects/labelflow" target="_blank">LabelFlow</a></strong>
-    — GenAI-native labeling platform with RAG evaluation, hallucination testing, and instant payouts.
-  </li>
-</ul>
+- **[RegimeAlpha](https://dustinhaggett.com/projects/regimealpha)** — LSTM + attention time-series system for identifying BTC market regimes, with drift detection and a walk-forward evaluation engine.
 
-<h3>Research</h3>
+- **[SpinOut Radar](https://dustinhaggett.com/projects/spinout-radar)** — RAG-powered deep-tech scouting system using embeddings, Supabase, and AI summaries to surface emerging spinouts and trends.
 
-<ul>
-  <li>
-    <strong><a href="https://dustinhaggett.com/projects/chart-vision" target="_blank">Chart Vision</a></strong>
-    — Deep learning study on candlestick chart prediction comparing CNN architectures; a simple 4-layer CNN achieved 0.892 AUC-ROC.
-  </li>
-  <li>
-    <strong><a href="https://dustinhaggett.com/projects/biolink" target="_blank">BioLink</a></strong>
-    — Drug–disease modeling research using BioBERT / PubMedBERT embeddings and knowledge-graph propagation.
-  </li>
-  <li>
-    <strong><a href="https://dustinhaggett.com/projects/federated-ids" target="_blank">Federated IDs</a></strong>
-    — Research on federated learning for intrusion detection, evaluating privacy-preserving distributed training across network security datasets.
-  </li>
-</ul>
+- **[DeepFile](https://dustinhaggett.com/projects/deepfile)** — Intelligence document extraction and retrieval system combining OCR, embeddings, and retrieval-augmented QA.
 
-<hr/>
+- **[Landflip](https://dustinhaggett.com/projects/landflip)** — Geospatial pipeline for Brazilian coastal land intelligence built on OpenStreetMap data and Python.
 
-<h2>What I’m Working On (Personally & with Clients)</h2>
+- **[ShopperOS](https://dustinhaggett.com/projects/shopperos)** — Cross-web personal shopping AI using taste graphs and fit-profile embeddings to improve purchase decisions.
 
-<ul>
-  <li>Chasing weak signal in noisy data and turning it into leverage</li>
-  <li>Bringing recent ML research into existing systems where it creates real value</li>
-  <li>Iterating quickly with AI-assisted workflows to test and refine ideas</li>
-  <li>Choosing projects where small improvements can compound into real impact</li>
-  <li>Building security-minded, end-to-end systems meant to hold up in practice</li>
-</ul>
+- **[LabelFlow](https://dustinhaggett.com/projects/labelflow)** — GenAI-native labeling platform with RAG evaluation, hallucination testing, and instant payouts.
 
-<hr/>
+### Research
 
-<h2>Background & Experience</h2>
+- **[Chart Vision](https://dustinhaggett.com/projects/chart-vision)** — Deep learning study on candlestick chart prediction comparing CNN architectures; a simple 4-layer CNN achieved 0.892 AUC-ROC, outperforming ResNet, EfficientNet, and Vision Transformers.
 
-<ul>
-  <li>
-    Founder & Applied AI Engineer at <strong>Parallax Lab</strong>, applying state-of-the-art machine learning methods to extract signal from complex data and build end-to-end AI systems that improve operational and financial outcomes.
-  </li>
-  <li>
-    Focus: signal systems, agent workflows, multimodal perception, decision-architecture
-  </li>
-  <li>
-    Professional experience in cyber security, infrastructure, and machine learning
-  </li>
-</ul>
+- **[BioLink](https://dustinhaggett.com/projects/biolink)** — Drug–disease modeling research using BioBERT / PubMedBERT embeddings and knowledge-graph propagation.
 
-<p>
-See my detailed professional profile on LinkedIn:
-<a href="https://www.linkedin.com/in/dustinhaggett/" target="_blank">linkedin.com/in/dustinhaggett</a>
-</p>
+- **[Federated IDs](https://dustinhaggett.com/projects/federated-ids)** — Research on federated learning for intrusion detection, evaluating privacy-preserving distributed training across network security datasets.
 
-<hr/>
+---
 
-<h2>Contact</h2>
+## What I’m Working On
 
-<p>
-📫 <strong>Email:</strong>
-<a href="mailto:dustin@parallaxlab.ai" target="_blank">dustin@parallaxlab.ai</a><br/>
-🌐 <strong>Portfolio:</strong>
-<a href="https://dustinhaggett.com" target="_blank">dustinhaggett.com</a><br/>
-🏢 <strong>Parallax Lab:</strong>
-<a href="https://parallaxlab.ai" target="_blank">parallaxlab.ai</a><br/>
-💼 <strong>LinkedIn:</strong>
-<a href="https://www.linkedin.com/in/dustinhaggett/" target="_blank">linkedin.com/in/dustinhaggett</a>
-</p>
+- Chasing weak signal in noisy data and turning it into leverage  
+- Bringing recent ML research into existing systems where it creates real value  
+- Iterating quickly with AI-assisted workflows to test and refine ideas  
+- Choosing projects where small improvements compound into real impact  
+- Building security-minded, end-to-end systems meant to hold up in practice  
+
+---
+
+## Background & Experience
+
+- Founder & Applied AI Engineer at **Parallax Lab**, applying state-of-the-art machine learning methods to extract signal from complex data and build end-to-end AI systems that improve operational and financial outcomes.
+- Focus: signal systems, agent workflows, multimodal perception, decision-architecture  
+- Professional experience in cyber security, infrastructure, and machine learning  
+
+See my detailed professional profile on LinkedIn:  
+🔗 https://www.linkedin.com/in/dustinhaggett/
+
+---
+
+## Contact
+
+📫 **Email:** [dustin@parallaxlab.ai](mailto:dustin@parallaxlab.ai)  
+🌐 **Portfolio:** https://dustinhaggett.com  
+🏢 **Parallax Lab:** https://parallaxlab.ai  
+💼 **LinkedIn:** https://www.linkedin.com/in/dustinhaggett/
