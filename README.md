@@ -15,9 +15,8 @@ Utah • Founder, Parallax Lab
 
 ## Currently Building
 
-
-
-
+- **SentinelDNS** — An applied ML system for domain risk scoring and anomaly detection, focused on extracting signal from noisy network and behavioral data under real-world constraints.  
+  https://github.com/dustinhaggett/sentineldns
 
 ---
 
