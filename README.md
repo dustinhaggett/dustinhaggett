@@ -21,7 +21,7 @@ Utah • Founder, Parallax Lab
 
 ---
 
-## Featured Projects
+## Selected Work
 
 ### AI & Signal Systems
 
