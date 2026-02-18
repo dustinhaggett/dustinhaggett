@@ -12,11 +12,11 @@ I’m focused on practical machine learning, agentic systems, multimodal percept
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 These are the highest-level projects from my portfolio — representing systems, tools, and AI design patterns I’ve worked on or prototyped.
 
-### 🧠 AI & Signal Systems
+### AI & Signal Systems
 *(Descriptions drawn from my personal portfolio)*
 
 - **RegimeAlpha** — A project exploring signal-based AI systems. [oai_citation:1‡dustinhaggett.com](https://dustinhaggett.com/projects/regimealpha?utm_source=chatgpt.com)  
@@ -31,7 +31,7 @@ These are the highest-level projects from my portfolio — representing systems,
 
 ---
 
-## 🛠 Public Work on GitHub
+## Public Work on GitHub
 
 Here are some of the public repositories I’ve developed or curated:
 
@@ -44,7 +44,7 @@ These repos range from systems tooling to learning notes — and reflect how I b
 
 ---
 
-## 🧠 How I Think About Applied AI
+## How I Think About Applied AI
 
 My engineering philosophy centers on:
 
@@ -57,7 +57,7 @@ These principles guide both prototype code and professional work.
 
 ---
 
-## 📌 Background & Experience
+## Background & Experience
 
 - Founder & Applied AI Engineer at **Parallax Lab** (AI strategy and technical design)  
 - Focus: signal systems, agent workflows, multimodal perception, decision-architecture  
