@@ -1,15 +1,15 @@
-# Dustin Haggett
+## Dustin Haggett  
+**Applied AI & Systems Engineer**
 
-**Applied AI & Systems Engineer**  
-I build AI systems and engineering tools that work under real data constraints — noisy signals, operational tradeoffs, and production realities.
+Applied AI engineer working on agentic systems, multimodal models, and signal intelligence.
 
-I’m focused on practical machine learning, agentic systems, multimodal perception, and data-driven decision architectures. Most of my production systems are proprietary or client-facing, so this GitHub surfaces how I think, prototype, and structure real applied work.
+MEng Applied Artificial Intelligence (2026), Data Engineering.
 
-Utah • Founder @ Parallax Lab  
-https://dustinhaggett.com
-https://parallaxlab.ai  
-LinkedIn: https://www.linkedin.com/in/dustinhaggett/  
-Email: dustin@parallaxlab.ai
+Building systems that perceive, interpret, and act.
+
+Utah • Founder, Parallax Lab  
+🌐 https://dustinhaggett.com • https://parallaxlab.ai  
+📫 dustin@parallaxlab.ai
 
 ---
 
