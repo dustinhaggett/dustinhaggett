@@ -5,10 +5,11 @@ I build AI systems and engineering tools that work under real data constraints �
 
 I’m focused on practical machine learning, agentic systems, multimodal perception, and data-driven decision architectures. Most of my production systems are proprietary or client-facing, so this GitHub surfaces how I think, prototype, and structure real applied work.
 
-📍 Utah • Founder @ Parallax Lab  
-🌐 https://dustinhaggett.com • https://parallaxlab.ai  
-🔗 LinkedIn: https://www.linkedin.com/in/dustinhaggett/  
-📫 Email: dustin@parallaxlab.ai
+Utah • Founder @ Parallax Lab  
+https://dustinhaggett.com
+https://parallaxlab.ai  
+LinkedIn: https://www.linkedin.com/in/dustinhaggett/  
+Email: dustin@parallaxlab.ai
 
 ---
 
@@ -68,8 +69,8 @@ See my detailed professional profile on LinkedIn:
 
 ---
 
-## 📬 Contact
+## Contact
 
-📧 dustin@parallaxlab.ai
-🌐 https://dustinhaggett.com  
-🌐 https://parallaxlab.ai
+dustin@parallaxlab.ai
+https://dustinhaggett.com  
+https://parallaxlab.ai
