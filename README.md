@@ -19,6 +19,10 @@ Utah • Founder, Parallax Lab
 
 ---
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dustinhaggett&theme=github-dark)
+
+---
+
 ## Selected Work
 
 ### AI & Signal Systems
@@ -34,11 +38,6 @@ Utah • Founder, Parallax Lab
 - **[Federated IDs](https://dustinhaggett.com/projects/federated-ids)** — A system-centric approach to decentralized identity and cross-domain authentication, exploring secure, scalable identity federation and signal-aware user resolution.
 
 ---
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dustinhaggett&theme=github-dark)
-
----
-
 
 ## How I Think About Applied AI
 
