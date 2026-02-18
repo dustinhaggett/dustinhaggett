@@ -1,4 +1,4 @@
-# Dustin M. Haggett
+# Dustin Haggett
 
 **Applied AI & Systems Engineer**  
 I build AI systems and engineering tools that work under real data constraints — noisy signals, operational tradeoffs, and production realities.
