@@ -15,8 +15,7 @@ Utah • Founder, Parallax Lab
 
 ## Currently Building
 
-- **SentinelDNS** — An applied ML system for domain risk scoring and anomaly detection, focused on extracting signal from noisy network and behavioral data under real-world constraints.  
-  https://github.com/dustinhaggett/sentineldns
+- **[SentinelDNS](https://github.com/dustinhaggett/sentineldns)** — An applied ML system for domain risk scoring and anomaly detection, focused on extracting signal from noisy network and behavioral data under real-world constraints.
 
 ---
 
@@ -24,32 +23,15 @@ Utah • Founder, Parallax Lab
 
 ### AI & Signal Systems
 
-- **RegimeAlpha** — A project exploring signal-based AI systems.  
-  [*Project page*](https://dustinhaggett.com/projects/regimealpha)
-
-- **SpinOut Radar** — A detection and pattern-recognition system with signal application context.  
-  [*Project page*](https://dustinhaggett.com/projects/spinout-radar)
-
-- **DeepFile** — A project focused on deep learning applied to structured and unstructured inputs.  
-  [*Project page*](https://dustinhaggett.com/projects/deepfile)
-
-- **Landflip** — A signal-oriented exploration project focused on interpreting and acting on structured geospatial and event data.  
-  [*Project page*](https://dustinhaggett.com/projects/landflip)
-
-- **ShopperOS** — An applied system for decision-centric signal integration.  
-  [*Project page*](https://dustinhaggett.com/projects/shopperos)
-
-- **LabelFlow** — Tooling for labeled data workflows and structured inference.  
-  [*Project page*](https://dustinhaggett.com/projects/labelflow)
-
-- **Chart Vision** — Experiments in perceptual pattern extraction from structured visual/text data.  
-  [*Project page*](https://dustinhaggett.com/projects/chart-vision)
-
-- **BioLink** — AI-driven modeling for drug–disease relationships.  
-  [*Project page*](https://dustinhaggett.com/projects/biolink)
-
-- **Federated IDs** — A system-centric approach to decentralized identity and cross-domain authentication, exploring secure, scalable identity federation and signal-aware user resolution.  
-  [*Project page*](https://dustinhaggett.com/projects/federated-ids)
+- **[RegimeAlpha](https://dustinhaggett.com/projects/regimealpha)** — A project exploring signal-based AI systems.
+- **[SpinOut Radar](https://dustinhaggett.com/projects/spinout-radar)** — A detection and pattern-recognition system with signal application context.
+- **[DeepFile](https://dustinhaggett.com/projects/deepfile)** — A project focused on deep learning applied to structured and unstructured inputs.
+- **[Landflip](https://dustinhaggett.com/projects/landflip)** — A signal-oriented exploration project focused on interpreting and acting on structured geospatial and event data.
+- **[ShopperOS](https://dustinhaggett.com/projects/shopperos)** — An applied system for decision-centric signal integration.
+- **[LabelFlow](https://dustinhaggett.com/projects/labelflow)** — Tooling for labeled data workflows and structured inference.
+- **[Chart Vision](https://dustinhaggett.com/projects/chart-vision)** — Experiments in perceptual pattern extraction from structured visual/text data.
+- **[BioLink](https://dustinhaggett.com/projects/biolink)** — AI-driven modeling for drug–disease relationships.
+- **[Federated IDs](https://dustinhaggett.com/projects/federated-ids)** — A system-centric approach to decentralized identity and cross-domain authentication, exploring secure, scalable identity federation and signal-aware user resolution.
 
 ---
 
