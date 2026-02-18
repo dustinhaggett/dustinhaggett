@@ -17,8 +17,6 @@ Utah • Founder, Parallax Lab
 
 - **[SentinelDNS](https://github.com/dustinhaggett/sentineldns)** — An applied ML system for domain risk scoring and anomaly detection, focused on extracting signal from noisy network and behavioral data under real-world constraints.
 
----
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dustinhaggett&theme=github-dark)
 
 ---
@@ -39,16 +37,13 @@ Utah • Founder, Parallax Lab
 
 ---
 
-## How I Think About Applied AI
+## What I’m Working On (Personally & with Clients)
 
-My engineering philosophy centers on:
-
-- **Real data realism** — data in the wild is noisy, incomplete, and expensive to label.  
-- **Operational constraints** — latency, cost, and false positives matter far more than raw accuracy.  
-- **Decision systems over models** — AI should improve decisions, not just make predictions.  
-- **Robustness and interpretability** — systems must survive failure modes and provide insight.  
-
-These principles guide both prototype code and professional work.
+- Chasing weak signal in noisy data and turning it into leverage
+- Bringing recent ML research into existing systems where it creates real value
+- Iterating quickly with AI-assisted workflows to test and refine ideas
+- Choosing projects where small improvements can compound into real impact
+- Building security-minded, end-to-end systems meant to hold up in practice
 
 ---
 
@@ -66,5 +61,5 @@ See my detailed professional profile on LinkedIn:
 ## Contact
 
 📫 **Email:** dustin@parallaxlab.ai  
-🌐 **Web:** https://dustinhaggett.com  
+🌐 **Portfolio:** https://dustinhaggett.com  
 🏢 **Parallax Lab:** https://parallaxlab.ai  
