@@ -1,5 +1,5 @@
-## Dustin Haggett  
-**Applied AI & Systems Engineer**
+# Dustin Haggett  
+### **Applied AI & Systems Engineer**
 
 Applied AI engineer working on agentic systems, multimodal models, and signal intelligence.
 
