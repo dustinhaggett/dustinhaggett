@@ -70,8 +70,6 @@ See my detailed professional profile on LinkedIn:
 
 ## 📬 Contact
 
-If you’re building data systems that are *meant to work*, not just score benchmarks, let’s talk:
-
 📧 dustin@parallaxlab.ai
 🌐 https://dustinhaggett.com  
 🌐 https://parallaxlab.ai
