@@ -8,7 +8,7 @@ I’m focused on practical machine learning, agentic systems, multimodal percept
 📍 Utah • Founder @ Parallax Lab  
 🌐 https://dustinhaggett.com • https://parallaxlab.ai  
 🔗 LinkedIn: https://www.linkedin.com/in/dustinhaggett/  
-📫 Email: yourname@yourdomain.com
+📫 Email: dustin@parallaxlab.ai
 
 ---
 
