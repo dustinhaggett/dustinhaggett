@@ -19,6 +19,8 @@ Building systems that perceive, interpret, and act.
 
 - **[SentinelDNS](https://github.com/dustinhaggett/sentineldns)** — An applied ML system for domain risk scoring and anomaly detection, focused on extracting signal from noisy network and behavioral data under real-world constraints.
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dustinhaggett&theme=github-dark)
+
 ---
 
 ## Selected Work
