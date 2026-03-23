@@ -18,6 +18,7 @@ Building systems that perceive, interpret, and act.
 ## Currently Building
 
 - **[SentinelDNS](https://github.com/dustinhaggett/sentineldns)** — An applied ML system for domain risk scoring and anomaly detection, focused on extracting signal from noisy network and behavioral data under real-world constraints.
+- **[BioLink v2](https://github.com/dustinhaggett/biolink-v2)** — Drug repurposing discovery pipeline using knowledge graph inference, PubMed enrichment, and LLM-generated explanations to surface and rank candidate therapies.
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dustinhaggett&theme=github-dark)
 
