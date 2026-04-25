@@ -5,75 +5,64 @@
 [![Parallax Lab](https://img.shields.io/badge/-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://parallaxlab.ai)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/dustinhaggett/)
 
-### **Applied AI & Systems Engineer**
+### **ML Engineer — Production AI Systems**
 
-Applied AI engineer focused on agentic systems, multimodal models, and signal intelligence.
+Building end-to-end intelligence systems for financial clients, applied research, and real-world data problems.
 
-MEng Applied Artificial Intelligence (2026), Data Engineering.
-
-Building systems that perceive, interpret, and act.
-
----
-
-## Currently Building
-
-- **[SentinelDNS](https://github.com/dustinhaggett/sentineldns)** — An applied ML system for domain risk scoring and anomaly detection, focused on extracting signal from noisy network and behavioral data under real-world constraints.
-- **[BioLink v2](https://github.com/dustinhaggett/biolink-v2)** — Drug repurposing discovery pipeline using knowledge graph inference, PubMed enrichment, and LLM-generated explanations to surface and rank candidate therapies.
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dustinhaggett&theme=github-dark)
+MEng Applied Artificial Intelligence (2026), Stevens Institute of Technology.
 
 ---
 
 ## Selected Work
 
-### AI & Signal Systems
+### Financial & Signal Systems
 
-- **[RegimeAlpha](https://dustinhaggett.com/projects/regimealpha)** — LSTM + attention time-series system for identifying BTC market regimes, with drift detection and a walk-forward evaluation engine.
+- **[RegimeSignal](https://github.com/dustinhaggett/RegimeSignal)** — Bi-LSTM + multi-head attention regime detection for BTC/USDT. 89.1% accuracy across bull/bear/neutral. Walk-forward validated with confidence-aware position sizing.
 
-- **[SpinOut Radar](https://dustinhaggett.com/projects/spinout-radar)** — RAG-powered deep-tech scouting system using embeddings, Supabase, and AI summaries to surface emerging spinouts and trends.
+- **[financial-news-sentiment-analysis](https://github.com/dustinhaggett/financial-news-sentiment-analysis)** — LoRA fine-tuned FinBERT on 20,550 financial articles for S&P 500 return prediction. Best directional accuracy among FinBERT, FLANG-RoBERTa, and LoRA variants. Stevens Institute, Spring 2026.
 
-- **[DeepFile](https://dustinhaggett.com/projects/deepfile)** — Intelligence document extraction and retrieval system combining OCR, embeddings, and retrieval-augmented QA.
+### Research & Systems
 
-- **[Landflip](https://dustinhaggett.com/projects/landflip)** — Geospatial pipeline for Brazilian coastal land intelligence built on OpenStreetMap data and Python.
+- **[abx-discovery](https://github.com/dustinhaggett/abx-discovery)** — Reproducible antibiotic discovery pipeline: GNN + SMILES Transformer ensemble, ROC-AUC 0.985. Calibration, virtual screening, applicability-domain filter. arXiv preprint.
 
-- **[ShopperOS](https://dustinhaggett.com/projects/shopperos)** — Cross-web personal shopping AI using taste graphs and fit-profile embeddings to improve purchase decisions.
+- **[biolink-ctd-drug-disease](https://github.com/dustinhaggett/biolink-ctd-drug-disease)** — Drug-disease association modeling using BioWordVec and transformer embeddings. AUC 0.947 on 78,530 CTD pairs. arXiv preprint.
 
-- **[LabelFlow](https://dustinhaggett.com/projects/labelflow)** — GenAI-native labeling platform with RAG evaluation, hallucination testing, and instant payouts.
+- **[biolink-v2](https://github.com/dustinhaggett/biolink-v2)** — Drug repurposing pipeline with calibrated confidence, FDA status, PubMed evidence, and LLM explanations. AUC 0.947. [Live demo on HuggingFace.](https://huggingface.co/spaces/dustinhaggett/biolink-v2)
 
-### Research
+- **[chart-vision-regime](https://github.com/dustinhaggett/chart-vision-regime)** — Systematic CNN architecture study on candlestick charts. Simple 4-layer CNN (AUC 0.892) outperforms ResNet, EfficientNet, and ViT. arXiv preprint.
 
-- **[Chart Vision](https://dustinhaggett.com/projects/chart-vision)** — Deep learning study on candlestick chart prediction comparing CNN architectures; a simple 4-layer CNN achieved 0.892 AUC-ROC, outperforming ResNet, EfficientNet, and Vision Transformers.
+- **[sentineldns](https://github.com/dustinhaggett/sentineldns)** — Local-first macOS DNS threat detection. Supervised domain risk model + IsolationForest anomaly detection. FastAPI inference + SwiftUI app.
 
-- **[BioLink](https://dustinhaggett.com/projects/biolink)** — Drug–disease modeling research using BioBERT / PubMedBERT embeddings and knowledge-graph propagation.
-
-- **[Federated IDs](https://dustinhaggett.com/projects/federated-ids)** — Research on federated learning for intrusion detection, evaluating privacy-preserving distributed training across network security datasets.
+- **[fed-sim](https://github.com/dustinhaggett/fed-sim)** — Federated learning simulation framework (FedAvg + differential privacy). Privacy-preserving distributed training across network security datasets.
 
 ---
 
-## What I’m Working On
+## Publications
 
-- Chasing weak signal in noisy data and turning it into leverage  
-- Bringing recent ML research into existing systems where it creates real value  
-- Iterating quickly with AI-assisted workflows to test and refine ideas  
-- Choosing projects where small improvements compound into real impact  
-- Building security-minded, end-to-end systems meant to hold up in practice  
+- Haggett, D. (2025). *Visual Chart Representations for Cryptocurrency Regime Prediction: A Systematic Deep Learning Study.* arXiv preprint.
+
+- Haggett, D. (2025). *AI-Driven Drug-Disease Modeling Using Biomedical and Transformer Embeddings.* arXiv preprint.
+
+- Haggett, D. (2025). *AI for Antibiotic Discovery: A Reproducible Pipeline with Calibrated Ensembles.* arXiv preprint.
 
 ---
 
-## Background & Experience
+## Background
 
-- Founder & Applied AI Engineer at **Parallax Lab**, applying state-of-the-art machine learning methods to extract signal from complex data and build end-to-end AI systems that improve operational and financial outcomes.
-- Focus: signal systems, agent workflows, multimodal perception, decision-architecture  
-- Professional experience in cyber security, infrastructure, and machine learning  
-
-See my detailed professional profile on LinkedIn:  
-🔗 https://www.linkedin.com/in/dustinhaggett/
+- ML Engineer at **[Parallax Lab](https://parallaxlab.ai)** — building production intelligence systems for financial and real-world data clients
+- Client work: credit risk modeling (fintech), distressed asset intelligence (PE fund), behavioral signal extraction (retail)
+- Principal at **Iroquois Capital** — quantitative signal research, geospatial ML pipelines for alternative asset markets
+- DoD VET TEC scholarship recipient — Certificate in Cybersecurity Engineering, Code Fellows (2023)
+- U.S. Army combat veteran. Fluent in English, Spanish, and Portuguese.
 
 ---
 
 ## Contact
 
-📫 **Email:** [dustin@parallaxlab.ai](mailto:dustin@parallaxlab.ai)  
-🌐 **Portfolio:** https://dustinhaggett.com  
-🏢 **Parallax Lab:** https://parallaxlab.ai  
+📫 **Email:** [dustin@parallaxlab.ai](mailto:dustin@parallaxlab.ai)
+
+🌐 **Portfolio:** https://dustinhaggett.com
+
+🏢 **Parallax Lab:** https://parallaxlab.ai
+
 💼 **LinkedIn:** https://www.linkedin.com/in/dustinhaggett/
