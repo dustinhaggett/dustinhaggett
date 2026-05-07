@@ -29,7 +29,9 @@ MEng Applied Artificial Intelligence (2026), Stevens Institute of Technology.
 
 - **[biolink-v2](https://github.com/dustinhaggett/biolink-v2)** — Drug repurposing pipeline with calibrated confidence, FDA status, PubMed evidence, and LLM explanations. AUC 0.947. [Live demo on HuggingFace.](https://huggingface.co/spaces/dustinhaggett/biolink-v2)
 
-- **[chart-vision-regime](https://github.com/dustinhaggett/chart-vision-regime)** — Systematic CNN architecture study on candlestick charts. Simple 4-layer CNN (AUC 0.892) outperforms ResNet, EfficientNet, and ViT. arXiv preprint.
+- **[CarbonVerifier](https://github.com/dustinhaggett/CarbonVerifier)** — Satellite-verified audit platform for the voluntary carbon credit market. Sentinel-2 imagery, Hansen forest change data, additionality testing, and Claude-generated audit reports. Real findings on 4 REDD+ projects (Microsoft, Salesforce, Shell, Disney buyers).
+
+- **[chart-vision-regime](https://github.com/dustinhaggett/chart-vision-regime)** — Systematic CNN architecture study on candlestick charts. Simple 4-layer CNN (AUC 0.892) outperforms ResNet, EfficientNet, and ViT. [arXiv:2605.00875](https://arxiv.org/abs/2605.00875).
 
 - **[sentineldns](https://github.com/dustinhaggett/sentineldns)** — Local-first macOS DNS threat detection. Supervised domain risk model + IsolationForest anomaly detection. FastAPI inference + SwiftUI app.
 
@@ -39,7 +41,7 @@ MEng Applied Artificial Intelligence (2026), Stevens Institute of Technology.
 
 ## Publications
 
-- Haggett, D. (2025). *Visual Chart Representations for Cryptocurrency Regime Prediction: A Systematic Deep Learning Study.* arXiv preprint.
+- Haggett, D. (2026). *Visual Chart Representations for Cryptocurrency Regime Prediction: A Systematic Deep Learning Study.* [arXiv:2605.00875](https://arxiv.org/abs/2605.00875).
 
 - Haggett, D. (2025). *AI-Driven Drug-Disease Modeling Using Biomedical and Transformer Embeddings.* arXiv preprint.
 
