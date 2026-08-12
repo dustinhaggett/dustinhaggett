@@ -9,7 +9,7 @@
 
 Building end-to-end intelligence systems for financial clients, applied research, and real-world data problems.
 
-MEng Applied Artificial Intelligence (2026), Stevens Institute of Technology.
+MEng Applied Artificial Intelligence, Stevens Institute of Technology.
 
 ---
 
